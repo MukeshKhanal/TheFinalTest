@@ -1,0 +1,6 @@
+git init
+git add Myfile.txt
+
+
+git add Info1.txt
+git add Info2.txt
