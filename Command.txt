@@ -4,3 +4,8 @@ git add Myfile.txt
 
 git add Info1.txt
 git add Info2.txt
+
+git user.name "Mukesh_INFO"
+
+
+I learned that when i modify the myfile and didn't commit it says modified: Myfile.txt
